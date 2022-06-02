@@ -9,7 +9,7 @@
 
  <div>
   <a href="https://github.com/adailtonsouzza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adailtonsouzza&show_icons=true&theme=radical&include_all_commits="/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adailtonsouzza&show_icons=true&theme=radical&include_all_commits"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonsouzza&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
