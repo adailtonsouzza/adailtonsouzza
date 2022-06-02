@@ -7,7 +7,7 @@
 
 <br/>
 
-![Adailton GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Adailton GitHub stats](https://github-readme-stats.vercel.app/api?username=adailtonsouzza&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu uso no meu dia 
