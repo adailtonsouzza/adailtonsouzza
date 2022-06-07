@@ -26,7 +26,7 @@
 <br>
   
 
-### - Technologies used
+### - Technologies used 🔗
 
 <div style="display:inline_block" align="center"><br/>
   <img align="center" alt"html5" height="120" width="100" src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html5.svg"/>
