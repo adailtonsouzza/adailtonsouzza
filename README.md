@@ -11,11 +11,13 @@
 
 
 ### - Languages 🔭
+
 <p align="center" >
   <a target="_blank" href="https://github.com/adailtonsouzza/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adailtonsouzza&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="proxzima"/></a>
 </p
   
  ### - Stats ⚡️
+
   
 <table style="border:none;margin:0 auto">
   <tr style="border:none;">
